@@ -10,7 +10,7 @@ The task at hand is to analyze the data provided, to find which factors have a h
 `Logistic Regression`
 `Decision Tree`
 
-## Project Workflow
+## Project Flowchart
 
 
 
